@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/luiar/Documents/NetBeansProjects/javaMysql/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/luiar/Documents/NetBeansProjects/javaMysql/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javaMysql 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/luiar/Documents/NetBeansProjects/javaMysql/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'javaMysql 1.0-SNAPSHOT API'
+com.mycompany.javamysql
+'C:/Users/luiar/Documents/NetBeansProjects/javaMysql/src/main/java/com/mycompany/javamysql/JavaMysql.java'
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\src\main\java = 1670164454981
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\allclasses-frame.html = 1670164862556
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\allclasses-noframe.html = 1670164862556
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\constant-values.html = 1670164862493
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\deprecated-list.html = 1670164862540
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\help-doc.html = 1670164862571
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\index-all.html = 1670164862524
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\index.html = 1670164862556
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\overview-tree.html = 1670164862524
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\package-list = 1670164862415
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\script.js = 1670164862587
+C:\Users\luiar\Documents\NetBeansProjects\javaMysql\target\site\apidocs\stylesheet.css = 1670164862587
