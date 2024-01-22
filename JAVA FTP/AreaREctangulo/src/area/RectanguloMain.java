@@ -1,0 +1,26 @@
+
+package area;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author LUIFAP
+ */
+public class RectanguloMain {
+    public static void main(String[] argas){
+        
+        Scanner entrada = new Scanner (System.in);
+        
+        System.out.print("Dame el valor de la base: ");
+        int base = entrada.nextInt();
+        
+        System.out.print("Dame el valor de la altura: ");
+        int altura = entrada.nextInt();
+        
+        Rectangulo mensajero = new Rectangulo(base, altura);
+        
+        mensajero.Imprimir();
+    }
+    
+}
